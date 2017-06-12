@@ -1,4 +1,4 @@
-A clean Bootstrap theme that implements animation using ScrollReveal. Part of a series of projects that teaches me how to create websites with a clean UI/UX layout.
+A clean Bootstrap theme that implements animation using ScrollReveal. Part of a series of projects that teaches me how to create websites with a clean UI/UX layout.  Also uses jQuery.  
 
 <!DOCTYPE html>
 <html lang="en">
